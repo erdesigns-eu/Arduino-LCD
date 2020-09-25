@@ -1,4 +1,4 @@
-# Arduino-LCD
+# Arduino-LCD Components for Delphi
 Components used for my Custom LCD Character creator, and projects that are not released yet.
 
 The character container component (TLCDCharacterContainer) is a simple component for drawing custom characters. You can use the mouse to select the pixels you want to light up, and this makes it easier to design or edit characters.
@@ -13,3 +13,5 @@ The characters for both components are a multidimensional array of boolean (pixe
 ![Custom LCD Character Creator](https://erdesigns.eu/images/char_creator_4.png)
 
 You can use these components freely, and to your liking - although it would be nice if you give me credits for the work. If you update the code, or add new functionality - please send me a copy so i can update the Git. I will add some of the projects using these components later on.
+
+Demo code can be found here: https://erdesigns.eu/app/delphi/view/5
